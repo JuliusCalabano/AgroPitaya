@@ -1,13 +1,5 @@
 # 🌱 AgroPitaya — Enterprise IoT Smart Agriculture Platform
 
-> A full-stack, enterprise-grade Smart Agriculture Monitoring and Irrigation System built with React, Node.js, Express, and MongoDB.
-
-![AgriSmart Banner](https://img.shields.io/badge/AgriSmart-IoT%20Platform-14b8a6?style=for-the-badge&logo=leaf)
-![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-8.0-47A248?style=flat-square&logo=mongodb)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
 ---
 
 ## 📋 Table of Contents
