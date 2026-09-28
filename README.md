@@ -2,22 +2,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Quick Start](#-quick-start)
-- [Configuration](#-configuration)
-- [API Documentation](#-api-documentation)
-- [Pages & Routes](#-pages--routes)
-- [MongoDB Schemas](#-mongodb-schemas)
-- [MQTT Integration](#-mqtt-integration)
-- [Deployment](#-deployment)
-- [Demo Credentials](#-demo-credentials)
-
----
-
 ## ✨ Features
 
 ### 📊 Dashboard
