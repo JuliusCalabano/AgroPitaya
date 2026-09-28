@@ -1,0 +1,29 @@
+{
+  "name": "agrismart-iot-platform",
+  "version": "1.0.0",
+  "description": "Enterprise Smart Agriculture Monitoring and Irrigation IoT Platform",
+  "private": true,
+  "author": "AgriSmart Team",
+  "license": "MIT",
+  "scripts": {
+    "install:all": "cd frontend && npm install && cd ../backend && npm install",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:frontend": "cd frontend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "seed": "cd backend && npm run seed",
+    "start": "cd backend && npm start",
+    "test": "cd backend && npm test"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "smart-agriculture", "iot", "precision-farming", "irrigation", "soil-monitoring",
+    "react", "nodejs", "mongodb", "mqtt", "realtime"
+  ],
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
